@@ -1,0 +1,24 @@
+   
+   form .avatar{
+        margin-bottom: 15px;
+        width: 55px 
+    }
+
+    .navbar .container-avatar{
+        border-radius: 900px;
+        overflow: hidden;
+        width: 35px;
+        height: 35px;
+        margin-left: 50px;
+    }
+    
+    .pub_image{
+        margin-bottom: 25px;
+    }
+
+    .navbar .container-avatar img{
+      
+        height: 100%;
+       
+    }
+   
